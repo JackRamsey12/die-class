@@ -12,4 +12,14 @@ hint: its remote counterpart. Integrate the remote changes (e.g.
 hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
-3. 
+3. * master
+
+4. * header
+     master
+
+5. README.md  die.h  first-answers.md  second-answers.md
+
+6. README.md  first-answers.md  second-answers.md
+
+7. No, the header file is not in the master branch
+
